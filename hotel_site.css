@@ -1,0 +1,145 @@
+
+body{
+    background-color: #EDC9AF;
+   
+    
+}
+ .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color:#0B0B61;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color:#778899;
+    color:black;
+  }
+  
+h1{ 
+    font-family: 'Nerko One', cursive;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    text-transform: capitalize;
+    display: block;
+    text-shadow: 2px 2px lightseagreen;
+    
+}
+h1:hover
+{
+    color:#191970;
+    
+}
+ #img1 
+{
+    
+    width: 200px;
+    height: 190px;
+    border-radius: 50%;
+    margin-top: 5%;
+    margin-left:5% ;
+    
+} 
+
+#img2
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+#img3
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+#img4
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    margin-top: 3%;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+ }
+#span1
+{
+    
+    font-size: 20px;
+    margin-left: 140px;
+
+}
+#span2
+{
+    
+    font-size: 20px;
+    margin-left: 300px;
+
+}
+#span3
+{
+    
+    font-size: 20px;
+    margin-left: 290px;
+
+}
+#span4
+{
+    
+    font-size: 20px;
+    margin-left: 300px;
+
+}
+
+span
+{
+    color:green ;
+
+  
+}
+.para{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 50px;
+    text-transform: capitalize;
+}
+.para:hover
+{
+    color:navy;
+}
+
+h4
+{
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+h4:hover{
+    color: olivedrab;
+}
